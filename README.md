@@ -10,7 +10,7 @@ The study analyzes regional and seasonal variations in solar resources, evaluate
 
 ## Research Paper
 
-**[Read the Full Research Paper](./Solar_Energy_Potential_in_Morocco.pdf)**
+**[Read the Full Research Paper](./Solar Energy Potential in Morocco.pdf)**
 
 The complete research paper is included in this repository together with the supporting materials used in the study.
 
