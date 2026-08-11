@@ -1,0 +1,70 @@
+{
+  "annual_ghi_kwh_m2": {
+    "Dakhla": 2176.5736666666667,
+    "Ouarzazate": 2137.383,
+    "Errachidia": 2101.279,
+    "Agadir": 2017.807,
+    "Marrakech": 2000.4856666666667,
+    "Casablanca": 1915.078,
+    "Tangier": 1860.1613333333332,
+    "Tetouan": 1828.1926666666668
+  },
+  "south_mean_annual_ghi": 2086.7056666666667,
+  "north_mean_annual_ghi": 1867.8106666666665,
+  "north_south_ratio": 1.1171933557862397,
+  "max_city": "Dakhla",
+  "min_city": "Tetouan",
+  "south_cities": [
+    "Ouarzazate",
+    "Dakhla",
+    "Marrakech",
+    "Agadir",
+    "Errachidia"
+  ],
+  "north_cities": [
+    "Casablanca",
+    "Tangier",
+    "Tetouan"
+  ],
+  "winter_Tetouan": 2.9770959409594098,
+  "winter_Ouarzazate": 4.116830258302583,
+  "winter_Agadir": 3.902188191881919,
+  "winter_Errachidia": 3.9762361623616234,
+  "winter_Dakhla": 4.7012398523985235,
+  "winter_Tangier": 3.0000036900369005,
+  "summer_Ouarzazate": 7.245355072463768,
+  "summer_Tetouan": 7.106416666666667,
+  "cloud_Tetouan": 47.11321472019464,
+  "cloud_Dakhla": 22.917084854014597,
+  "pv_m2_kwh": {
+    "Dakhla": 244.86453749999998,
+    "Ouarzazate": 240.45558749999998,
+    "Errachidia": 236.3938875,
+    "Agadir": 227.0032875,
+    "Marrakech": 225.0546375,
+    "Casablanca": 215.44627499999996,
+    "Tangier": 209.26814999999996,
+    "Tetouan": 205.671675
+  },
+  "pv_mwp_mwh": {
+    "Dakhla": 1632.43025,
+    "Ouarzazate": 1603.0372499999999,
+    "Errachidia": 1575.95925,
+    "Agadir": 1513.35525,
+    "Marrakech": 1500.36425,
+    "Casablanca": 1436.3085,
+    "Tangier": 1395.1209999999999,
+    "Tetouan": 1371.1445
+  },
+  "p95_p5_Tetouan": {
+    "p5": 2.2285,
+    "p95": 7.8412500000000005
+  },
+  "p95_p5_Ouarzazate": {
+    "p5": 3.447,
+    "p95": 8.1095
+  },
+  "dni_Ouarzazate": 2569.6929,
+  "corr_cloud_ghi": -0.4418697131103753,
+  "corr_temp_ghi": 0.6171047115355233
+}

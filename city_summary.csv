@@ -1,0 +1,9 @@
+city,Latitude,Region,Annual_GHI_kWh_m2,Annual_DNI_kWh_m2,Spring_daily_GHI,Summer_daily_GHI,Autumn_daily_GHI,Winter_daily_GHI,Mean_temp_C,Mean_cloud_%,Sun_hours_day,PV_per_m2_kWh,PV_per_MWp_MWh
+Agadir,30.42,South-West (Atlantic),2018.0,2277.0,6.52,6.85,4.78,3.9,19.9,34.7,12.3,227.0,1513.0
+Casablanca,33.57,North (Atlantic),1915.0,2166.0,6.11,7.07,4.45,3.29,18.8,45.0,12.3,215.0,1436.0
+Dakhla,23.71,Far South (Atlantic Sahara),2177.0,2400.0,7.03,6.74,5.33,4.7,19.6,22.9,12.3,245.0,1632.0
+Errachidia,31.93,South-East (Saharan fringe),2101.0,2482.0,6.74,7.32,4.92,3.98,20.2,29.6,12.3,236.0,1576.0
+Marrakech,31.63,South (inland),2000.0,2316.0,6.29,7.09,4.75,3.74,21.5,32.3,12.4,225.0,1500.0
+Ouarzazate,30.92,South (Sahara),2137.0,2570.0,6.93,7.25,5.07,4.12,20.0,28.5,12.5,240.0,1603.0
+Tangier,35.76,North (Mediterranean),1860.0,2166.0,5.93,7.22,4.17,3.0,18.6,43.2,12.3,209.0,1395.0
+Tetouan,35.58,North (Mediterranean),1828.0,2070.0,5.79,7.11,4.1,2.98,18.1,47.1,12.3,206.0,1371.0

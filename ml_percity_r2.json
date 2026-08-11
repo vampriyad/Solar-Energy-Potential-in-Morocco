@@ -1,0 +1,42 @@
+{
+  "Agadir": {
+    "Linear regression": 0.464,
+    "Random forest": 0.922,
+    "Gradient boosting": 0.929
+  },
+  "Casablanca": {
+    "Linear regression": 0.593,
+    "Random forest": 0.927,
+    "Gradient boosting": 0.931
+  },
+  "Dakhla": {
+    "Linear regression": 0.159,
+    "Random forest": 0.86,
+    "Gradient boosting": 0.889
+  },
+  "Errachidia": {
+    "Linear regression": 0.685,
+    "Random forest": 0.922,
+    "Gradient boosting": 0.935
+  },
+  "Marrakech": {
+    "Linear regression": 0.615,
+    "Random forest": 0.921,
+    "Gradient boosting": 0.916
+  },
+  "Ouarzazate": {
+    "Linear regression": 0.606,
+    "Random forest": 0.916,
+    "Gradient boosting": 0.93
+  },
+  "Tangier": {
+    "Linear regression": 0.66,
+    "Random forest": 0.932,
+    "Gradient boosting": 0.94
+  },
+  "Tetouan": {
+    "Linear regression": 0.679,
+    "Random forest": 0.923,
+    "Gradient boosting": 0.933
+  }
+}
