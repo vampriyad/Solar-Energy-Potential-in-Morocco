@@ -1,25 +1,47 @@
-Solar Energy Potential in Morocco
+# Solar Energy Potential in Morocco
 
-Research project by **Riyad Khairoun**
+This repository contains the independent research paper **Solar Energy Potential in Morocco: A Machine Learning Analysis of Eight Cities Using Three Years of Hourly Weather Data**.
 
-A quantitative study of Morocco's solar energy resource using three years (2023–2026) of hourly
-meteorological data for eight Moroccan cities, with machine-learning prediction models and a
-photovoltaic (PV) yield estimation.
+## Research
 
-**Paper:** `Paper_Solar_Energy_Morocco.pdf` (19 pages, 13 figures, 8 tables)
+This research examines Morocco's solar energy potential using three years of hourly solar radiation and weather data from eight Moroccan cities.
 
-## Cities studied
+The study analyzes regional and seasonal variations in solar resources, evaluates machine learning methods for predicting solar radiation, and estimates photovoltaic electricity generation under different locations and conditions.
 
-Dakhla, Ouarzazate, Errachidia, Agadir, Marrakech, Casablanca, Tangier, Tétouan.
+## Research Paper
 
-## Key results
+**[Read the Full Research Paper](./Solar_Energy_Potential_in_Morocco.pdf)**
 
-- Annual solar radiation (GHI) ranges from 1,828 kWh/m²/year (Tétouan) to 2,177 kWh/m²/year (Dakhla).
-- Southern cities receive ~12% more solar radiation per year than the northern coast, with the gap
-  concentrated in winter (driven by cloud cover).
-- A gradient boosting model predicts daily solar radiation on unseen data with R² = 0.932
-  (random forest: R² = 0.924; linear regression: R² = 0.612).
-- A 1 MWp PV plant would produce 1,371–1,632 MWh/year depending on location.
+The complete research paper is included in this repository together with the supporting materials used in the study.
+
+## Publication
+
+This research has been independently conducted and publicly published through Zenodo.
+
+**DOI:** 10.5281/zenodo.21895488
+
+## Author
+
+**Riyad Khairoun**  
+Independent Researcher  
+Morocco  
+2026
+
+## Copyright and License
+
+This project and its contents are protected by copyright. The research paper, source code, datasets, figures, text, analysis, and other materials contained in this repository may not be copied, reproduced, modified, distributed, republished, or used without prior written permission from the author.
+
+All rights to the original work are reserved by the author.
+
+Permission may be granted by the author for specific uses upon written request.
+
+## Thank You
+
+Thank you for visiting this repository and taking an interest in this research on **solar energy potential in Morocco**.
+
+---
+
+**© 2026 Riyad Khairoun. All Rights Reserved.**
 
 ## Repository structure
 
